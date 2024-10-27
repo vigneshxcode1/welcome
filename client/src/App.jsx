@@ -10,7 +10,7 @@ function App() {
     <>
       <img src={img1} alt="" />
 
-      <h1>COME SOON...</h1>
+      <h1>COMING SOON...</h1>
     </>
   )
 }
